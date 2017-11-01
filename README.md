@@ -1,5 +1,7 @@
 # policy-check
-About
+[Demo (CodePen)](https://codepen.io/shimba/pen/POYXjG)
+## DEMO ##
+(dddd)[https://codepen.io/shimba/pen/POYXjG]
 ## How to use? ##
 
 Add input check box in form.
